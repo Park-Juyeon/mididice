@@ -1,7 +1,7 @@
 # Mididice 
 [![Build Status](https://travis-ci.org/mididice/mididice.svg?branch=master)](https://travis-ci.org/mididice/mididice)
 
-Role the dice and play generated music
+Role the dice and play generated music!
 
 ## Getting Started
 
